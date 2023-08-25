@@ -1,6 +1,6 @@
 <?php
 
-namespace Biztech\Contact\Mail;
+namespace Bizcs\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

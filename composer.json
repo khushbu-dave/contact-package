@@ -1,11 +1,11 @@
 {
-    "name": "biztech/contact",
+    "name": "bizcs/contact",
     "description": "This will send email to admin and save contact data in database",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Biztech\\Contact\\": "src/"
+            "Bizcs\\Contact\\": "src/"
         }
     },
     "authors": [

@@ -1,6 +1,6 @@
 <?php
 
-namespace Biztech\Contact;
+namespace Bizcs\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

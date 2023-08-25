@@ -1,12 +1,12 @@
 <?php
 
-namespace Biztech\Contact\Http\Controllers;
+namespace Bizcs\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Biztech\Contact\Mail\ContactMailable;
-use Biztech\Contact\Models\Contact;
+use Bizcs\Contact\Mail\ContactMailable;
+use Bizcs\Contact\Models\Contact;
 
 class ContactController extends Controller
 {
